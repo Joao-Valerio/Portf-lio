@@ -1,0 +1,4 @@
+/* Estilos de nível de aplicação — sobrescrita de defaults do Vite */
+#root {
+  min-height: 100vh;
+}
